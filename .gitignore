@@ -1,0 +1,13 @@
+/.idea
+target/
+installer
+git
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/target/ 
+/.settings/ 
+/*.project
